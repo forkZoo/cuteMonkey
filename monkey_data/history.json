@@ -2207,6 +2207,22 @@
         "special": "aura"
       },
       "story": "Your monkey evolved randomly!"
+    },
+    {
+      "timestamp": "2026-04-11T01:56:44.425114",
+      "dna_hash": "1f4f61fcabd3a712",
+      "generation": 2,
+      "mutation_count": 60,
+      "rarity_score": 46.666666666666664,
+      "traits": {
+        "body_color": "crystal",
+        "face_expression": "zen",
+        "accessory": "sunglasses",
+        "pattern": "lightning",
+        "background": "sunset",
+        "special": "aura"
+      },
+      "story": "Your monkey evolved randomly!"
     }
   ]
 }
