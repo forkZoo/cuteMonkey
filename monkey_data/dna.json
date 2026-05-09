@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "37007e6c640adc0c",
-  "dna_hash": "aaee8728c7f7d0e7",
-  "mutation_count": 70,
+  "dna_hash": "e8d1fa9a81aea702",
+  "mutation_count": 72,
   "birth_timestamp": 236574,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "593ecbaf"
     },
     "accessory": {
-      "value": "monocle",
+      "value": "crown",
       "rarity": "uncommon",
-      "gene_sequence": "4b7e2599"
+      "gene_sequence": "fa89ebac"
     },
     "pattern": {
       "value": "aurora",
@@ -26,9 +26,9 @@
       "gene_sequence": "1c1ee672"
     },
     "background": {
-      "value": "sunset",
+      "value": "white",
       "rarity": "common",
-      "gene_sequence": "5d4ff589"
+      "gene_sequence": "b91761d7"
     },
     "special": {
       "value": "aura",
