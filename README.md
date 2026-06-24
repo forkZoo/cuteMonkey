@@ -115,7 +115,7 @@ Then open http://localhost:8000/web/index.html in your browser!
 
 <!-- MONKEY_STATS_START -->
 - **Generation**: 2
-- **Age**: 212 days
+- **Age**: 213 days
 - **Mutations**: 105
 - **Rarity Score**: 45.0/100
 <!-- MONKEY_STATS_END -->
