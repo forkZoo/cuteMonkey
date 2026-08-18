@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "37007e6c640adc0c",
-  "dna_hash": "28a6fe3feaf600e4",
-  "mutation_count": 138,
+  "dna_hash": "9a3a1c8348dcf79f",
+  "mutation_count": 139,
   "birth_timestamp": 236574,
   "traits": {
     "body_color": {
@@ -11,9 +11,9 @@
       "gene_sequence": "facdd9fe"
     },
     "face_expression": {
-      "value": "curious",
+      "value": "happy",
       "rarity": "common",
-      "gene_sequence": "7d0bf056"
+      "gene_sequence": "84ed1537"
     },
     "accessory": {
       "value": "laser_eyes",
