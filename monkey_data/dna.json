@@ -1,8 +1,8 @@
 {
   "generation": 2,
   "parent_id": "37007e6c640adc0c",
-  "dna_hash": "3a4d2b65b32c07aa",
-  "mutation_count": 164,
+  "dna_hash": "e2e3ebd4d832b3be",
+  "mutation_count": 165,
   "birth_timestamp": 236574,
   "traits": {
     "body_color": {
@@ -26,9 +26,9 @@
       "gene_sequence": "e7bbc10d"
     },
     "background": {
-      "value": "multiverse",
+      "value": "dimension_rift",
       "rarity": "legendary",
-      "gene_sequence": "760b5e30"
+      "gene_sequence": "574fa46a"
     },
     "special": {
       "value": "particles",
